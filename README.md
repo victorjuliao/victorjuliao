@@ -11,14 +11,6 @@ Olá! Sou Victor Julião, tenho 31 anos, natural de São Paulo, e estou cursando
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=victorjuliao&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorjuliao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide=html,css" />
-</p>
-
----
-
 ### 🛠️ Tecnologias que Domino
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px;">
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -49,5 +41,3 @@ Olá! Sou Victor Julião, tenho 31 anos, natural de São Paulo, e estou cursando
 - [ ] Criar portfólio de projetos
 
 **"Transformando conhecimento em soluções tecnológicas!"**  
-
----
