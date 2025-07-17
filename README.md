@@ -33,10 +33,4 @@ Olá! Sou Victor Julião, tenho 31 anos, natural de São Paulo, e estou cursando
 
 ---
 
-### 🚀 Próximos Objetivos
-- [ ] Desenvolver projetos públicos no GitHub
-- [ ] Aprofundar conhecimentos em Django/Flask
-- [ ] Aprender React.js
-- [ ] Criar portfólio de projetos
-
 **"Transformando conhecimento em soluções tecnológicas!"**  
