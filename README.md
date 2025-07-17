@@ -19,7 +19,6 @@ Olá! Sou Victor Julião, tenho 31 anos, natural de São Paulo, e estou cursando
   <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Protheus" title="ERP Protheus" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-totvs-a-brazilian-enterprise-resource-planning-software-company-logo-shadow-tal-revivo.png" />
 </div>
 
 ---
