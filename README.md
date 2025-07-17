@@ -33,4 +33,4 @@ Olá! Sou Victor Julião, tenho 31 anos, natural de São Paulo, e estou cursando
 
 ---
 
-**"Transformando conhecimento em soluções tecnológicas!"**  
+**Transformando conhecimento em soluções tecnológicas!**  
